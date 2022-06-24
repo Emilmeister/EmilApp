@@ -1,0 +1,15 @@
+
+
+
+
+export const Colors = {
+    GRAY_TEXT_COLOR: '#444444',
+    GRAY_LIGHTER_TEXT_COLOR: '#7d7d7d',
+    MAIN_COLOR: "#EEEEEE",
+    ADDITIONAL_COLOR: "#DDDDDD",
+    BORDER_COLOR: "#333333",
+    DEFAULT_BUTTON_COLOR: "#D8D8D8",
+    RED : '#f50000',
+    GREEN : '#008d00',
+    BLUE : '#3333FF',
+}
